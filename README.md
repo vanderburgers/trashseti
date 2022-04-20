@@ -7,4 +7,6 @@ Add neccesary packages to run code here
 
 Add descriptions of scripts here
 
+1. You can create this environment on your computer using 'conda env create -f environment.yml'
+
 Add future directions of project
