@@ -16,3 +16,4 @@ dependencies:
   - pandas
   - tqdm
   - pip
+  - urllib
