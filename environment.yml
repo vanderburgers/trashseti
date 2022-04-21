@@ -8,7 +8,6 @@ dependencies:
   - git
   - matplotlib
   - numpy
-  - math
   - scipy
   - astropy
   - astroquery
