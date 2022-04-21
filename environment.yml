@@ -14,7 +14,4 @@ dependencies:
   - pandas
   - tqdm
   - pip
-  - pip:
-      - urllib
-      - pycurl
 
